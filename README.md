@@ -2,7 +2,7 @@
 
 Repositório da Disciplina DataScience e Mineração de Dados da Unimater
 
-![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdlZTE4MTdiNDQyNTA4MDU2ZTdhZWEzMWM4N2Y3NjgyYTEzYzNjZSZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif)
+<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>
 
 Aula 1:
 
