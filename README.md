@@ -19,8 +19,3 @@
 <br>
 </p>
 
-![](Imagem/gif.gif)
-
-### Aula 1:
-
-Introdução a Linguagem Python
