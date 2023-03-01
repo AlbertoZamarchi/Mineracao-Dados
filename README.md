@@ -14,7 +14,9 @@
 <br>
 </p>
 
-![](Imagem/gif.gif)
+<p align="center">
+<img src="Imagem/gif.gif"/>
+</p>
 
 ### Aula 1:
 
