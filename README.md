@@ -18,7 +18,7 @@
 <img src="Imagem/gif.gif"/>
 </p>
 
-### Aula 1. Introdução a Linguagem Python [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Mineracao-Dados/blob/main/Introducao_ao_Python.ipynb) 
+### Aula 1. Introdução a Linguagem Python    [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Mineracao-Dados/blob/main/Introducao_ao_Python.ipynb) 
 
 
 
