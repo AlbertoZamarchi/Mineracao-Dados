@@ -25,8 +25,8 @@
  [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Mineracao-Dados/blob/main/Introducao_ao_Python.ipynb) 
 
 #### Tipos de dados, operadores aritméticos, modulos, pacotes, strings e mensagens de erro :computer:
- [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Mineracao-Dados/blob/main/Introducao_ao_Python.ipynb) 
+ [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Mineracao-Dados/blob/main/Tipos_de_Dados%2C_Operadores_e_Mensagens_de_Erros.ipynb) 
 
 ### Aula 2: :chart_with_upwards_trend:
 #### Primeira Análise de Dados :computer:
- [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Mineracao-Dados/blob/main/Introducao_ao_Python.ipynb) 
+ [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Mineracao-Dados/blob/main/Primeira_Analise_Dados.ipynb) 
