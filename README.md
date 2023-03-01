@@ -27,3 +27,6 @@
 #### Tipos de dados, operadores aritméticos, modulos, pacotes, strings e mensagens de erro :computer:
  [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Mineracao-Dados/blob/main/Introducao_ao_Python.ipynb) 
 
+### Aula 2: :chart_with_upwards_trend:
+#### Primeira Análise de Dados :computer:
+ [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Mineracao-Dados/blob/main/Introducao_ao_Python.ipynb) 
