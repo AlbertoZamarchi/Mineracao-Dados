@@ -2,7 +2,7 @@
 
 <div id="user-content-toc">
   <ul>
-    <h1 align="center" style="display: inline-block;> Mineração de Dados e DataScience</h1>
+    <h1 align="center" style="display: inline-block;"> Mineração de Dados e DataScience</h1>
   </ul>
 </div>
 
