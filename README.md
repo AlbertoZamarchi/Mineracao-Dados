@@ -1,3 +1,7 @@
+
+<summary>
+<summary><h1 style="display: inline-block;">NO LINE</h1></summary>
+
 <h1 align="center"> Mineração de Dados e DataScience</h1>
 
 <p  align="center"  style="border-bottom: none">
