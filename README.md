@@ -20,13 +20,26 @@
 <img src="Imagem/gif.gif"/>
 </p>
 
-### Aula 1: :chart_with_upwards_trend:
+### Parte 1: :chart_with_upwards_trend:
 #### Introdução a Linguagem Python :computer:
  [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Mineracao-Dados/blob/main/Introducao_ao_Python.ipynb) 
 
 #### Tipos de dados, operadores aritméticos, modulos, pacotes, strings e mensagens de erro :computer:
  [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Mineracao-Dados/blob/main/Tipos_de_Dados%2C_Operadores_e_Mensagens_de_Erros.ipynb) 
+ 
+#### Operadores de comparação, lógicos, controle de fluxo e laços de repetição :computer:
+[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Mineracao-Dados/blob/main/Controle_de_fluxo_lacos_de_repeticao_operadores_logicos_e_de_comparacao.ipynb)
+ 
+#### Funções :computer:
+[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Mineracao-Dados/blob/main/Funcoes.ipynb)
+ 
+#### Fundamentos de Orientação a Objetos :computer:
+[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Mineracao-Dados/blob/main/Fundamentos_de_Orientacao_a_Objetos.ipynbb)
+ 
+ 
+ 
+ 
 
-### Aula 2: :chart_with_upwards_trend:
+### Parte 2: :chart_with_upwards_trend:
 #### Primeira Análise de Dados :computer:
  [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/Rafael-Barbosa/Mineracao-Dados/blob/main/Primeira_Analise_Dados.ipynb) 
